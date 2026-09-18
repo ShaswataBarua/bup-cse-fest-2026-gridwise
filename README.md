@@ -1,9 +1,10 @@
-# bup-cse-fest-2026-gridwise
 # GridWise — LLM-Assisted Campus Energy Optimizer
 
 BUP CSE Fest 2026 · Online Preliminary · Smart Campus Energy Optimization Challenge
 
 **Live API:** https://bup-cse-fest-2026-gridwise.onrender.com
+
+**Docker image:** `shaswatabarua/gridwise:latest`
 
 ## What this service does
 
